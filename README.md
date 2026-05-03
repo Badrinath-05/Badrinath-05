@@ -14,6 +14,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=850&repeat=false&lines=BADRINATH+B;MECHANICAL+ENGINEERING+STUDENT;CAD+%7C+SIMULATION+%7C+ROBOTICS+%26+AUTOMATION" alt="Intro Animation" />
 </div>
 
+<p align="center">
+  <img src="jjk.gif" width="480"/>
+</p>
+
 <br/>
 
 <div align="center">
